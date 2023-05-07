@@ -1,0 +1,15 @@
+/Users/mac/Desktop/untitled folder 3/Csharp-lesson/Collection/bin/Debug/net7.0/Collection
+/Users/mac/Desktop/untitled folder 3/Csharp-lesson/Collection/bin/Debug/net7.0/Collection.deps.json
+/Users/mac/Desktop/untitled folder 3/Csharp-lesson/Collection/bin/Debug/net7.0/Collection.runtimeconfig.json
+/Users/mac/Desktop/untitled folder 3/Csharp-lesson/Collection/bin/Debug/net7.0/Collection.dll
+/Users/mac/Desktop/untitled folder 3/Csharp-lesson/Collection/bin/Debug/net7.0/Collection.pdb
+/Users/mac/Desktop/untitled folder 3/Csharp-lesson/Collection/obj/Debug/net7.0/Collection.csproj.AssemblyReference.cache
+/Users/mac/Desktop/untitled folder 3/Csharp-lesson/Collection/obj/Debug/net7.0/Collection.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Desktop/untitled folder 3/Csharp-lesson/Collection/obj/Debug/net7.0/Collection.AssemblyInfoInputs.cache
+/Users/mac/Desktop/untitled folder 3/Csharp-lesson/Collection/obj/Debug/net7.0/Collection.AssemblyInfo.cs
+/Users/mac/Desktop/untitled folder 3/Csharp-lesson/Collection/obj/Debug/net7.0/Collection.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/untitled folder 3/Csharp-lesson/Collection/obj/Debug/net7.0/Collection.dll
+/Users/mac/Desktop/untitled folder 3/Csharp-lesson/Collection/obj/Debug/net7.0/refint/Collection.dll
+/Users/mac/Desktop/untitled folder 3/Csharp-lesson/Collection/obj/Debug/net7.0/Collection.pdb
+/Users/mac/Desktop/untitled folder 3/Csharp-lesson/Collection/obj/Debug/net7.0/Collection.genruntimeconfig.cache
+/Users/mac/Desktop/untitled folder 3/Csharp-lesson/Collection/obj/Debug/net7.0/ref/Collection.dll
