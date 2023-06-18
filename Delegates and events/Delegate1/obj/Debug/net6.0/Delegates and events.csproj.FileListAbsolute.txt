@@ -1,0 +1,15 @@
+/Users/mac/Desktop/untitled folder 3/Csharp-lesson/Delegates and events/obj/Debug/net6.0/Delegates and events.csproj.AssemblyReference.cache
+/Users/mac/Desktop/untitled folder 3/Csharp-lesson/Delegates and events/obj/Debug/net6.0/Delegates and events.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Desktop/untitled folder 3/Csharp-lesson/Delegates and events/obj/Debug/net6.0/Delegates and events.AssemblyInfoInputs.cache
+/Users/mac/Desktop/untitled folder 3/Csharp-lesson/Delegates and events/obj/Debug/net6.0/Delegates and events.AssemblyInfo.cs
+/Users/mac/Desktop/untitled folder 3/Csharp-lesson/Delegates and events/obj/Debug/net6.0/Delegates and events.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/untitled folder 3/Csharp-lesson/Delegates and events/bin/Debug/net6.0/Delegates and events
+/Users/mac/Desktop/untitled folder 3/Csharp-lesson/Delegates and events/bin/Debug/net6.0/Delegates and events.deps.json
+/Users/mac/Desktop/untitled folder 3/Csharp-lesson/Delegates and events/bin/Debug/net6.0/Delegates and events.runtimeconfig.json
+/Users/mac/Desktop/untitled folder 3/Csharp-lesson/Delegates and events/bin/Debug/net6.0/Delegates and events.dll
+/Users/mac/Desktop/untitled folder 3/Csharp-lesson/Delegates and events/bin/Debug/net6.0/Delegates and events.pdb
+/Users/mac/Desktop/untitled folder 3/Csharp-lesson/Delegates and events/obj/Debug/net6.0/Delegates and events.dll
+/Users/mac/Desktop/untitled folder 3/Csharp-lesson/Delegates and events/obj/Debug/net6.0/refint/Delegates and events.dll
+/Users/mac/Desktop/untitled folder 3/Csharp-lesson/Delegates and events/obj/Debug/net6.0/Delegates and events.pdb
+/Users/mac/Desktop/untitled folder 3/Csharp-lesson/Delegates and events/obj/Debug/net6.0/Delegates and events.genruntimeconfig.cache
+/Users/mac/Desktop/untitled folder 3/Csharp-lesson/Delegates and events/obj/Debug/net6.0/ref/Delegates and events.dll

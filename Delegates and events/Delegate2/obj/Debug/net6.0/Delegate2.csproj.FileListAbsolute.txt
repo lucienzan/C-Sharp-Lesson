@@ -1,0 +1,15 @@
+/Users/mac/Desktop/untitled folder 3/Csharp-lesson/Delegates and events/Delegate2/obj/Debug/net6.0/Delegate2.csproj.AssemblyReference.cache
+/Users/mac/Desktop/untitled folder 3/Csharp-lesson/Delegates and events/Delegate2/obj/Debug/net6.0/Delegate2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Desktop/untitled folder 3/Csharp-lesson/Delegates and events/Delegate2/obj/Debug/net6.0/Delegate2.AssemblyInfoInputs.cache
+/Users/mac/Desktop/untitled folder 3/Csharp-lesson/Delegates and events/Delegate2/obj/Debug/net6.0/Delegate2.AssemblyInfo.cs
+/Users/mac/Desktop/untitled folder 3/Csharp-lesson/Delegates and events/Delegate2/obj/Debug/net6.0/Delegate2.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/untitled folder 3/Csharp-lesson/Delegates and events/Delegate2/bin/Debug/net6.0/Delegate2
+/Users/mac/Desktop/untitled folder 3/Csharp-lesson/Delegates and events/Delegate2/bin/Debug/net6.0/Delegate2.deps.json
+/Users/mac/Desktop/untitled folder 3/Csharp-lesson/Delegates and events/Delegate2/bin/Debug/net6.0/Delegate2.runtimeconfig.json
+/Users/mac/Desktop/untitled folder 3/Csharp-lesson/Delegates and events/Delegate2/bin/Debug/net6.0/Delegate2.dll
+/Users/mac/Desktop/untitled folder 3/Csharp-lesson/Delegates and events/Delegate2/bin/Debug/net6.0/Delegate2.pdb
+/Users/mac/Desktop/untitled folder 3/Csharp-lesson/Delegates and events/Delegate2/obj/Debug/net6.0/Delegate2.dll
+/Users/mac/Desktop/untitled folder 3/Csharp-lesson/Delegates and events/Delegate2/obj/Debug/net6.0/refint/Delegate2.dll
+/Users/mac/Desktop/untitled folder 3/Csharp-lesson/Delegates and events/Delegate2/obj/Debug/net6.0/Delegate2.pdb
+/Users/mac/Desktop/untitled folder 3/Csharp-lesson/Delegates and events/Delegate2/obj/Debug/net6.0/Delegate2.genruntimeconfig.cache
+/Users/mac/Desktop/untitled folder 3/Csharp-lesson/Delegates and events/Delegate2/obj/Debug/net6.0/ref/Delegate2.dll
