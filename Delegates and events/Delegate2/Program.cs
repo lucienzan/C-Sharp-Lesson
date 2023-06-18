@@ -6,6 +6,8 @@ namespace MyApp // Note: actual namespace depends on the project name.
   public class Program
   {
     public delegate string FilterDelegate(Person p);
+    public delegate bool FilterAgeDelegate(Person p);
+
     static void Main(string[] args)
     {
       Person person1 = new Person() { Age = 17, Name = "Thomas" };
@@ -13,11 +15,21 @@ namespace MyApp // Note: actual namespace depends on the project name.
       Person person3 = new Person() { Age = 23, Name = "Stebestin" };
       Person person4 = new Person() { Age = 16, Name = "Lucien" };
       List<Person> presonLists = new List<Person>() { person1, person2, person3, person4 };
+      //Anonymous method
+      //Delegate 2 version - 2
+      FilterAgeDelegate filter = delegate (Person p)
+      {
+        return p.Age >= 18;
+      };
+
       foreach (var person in presonLists)
       {
         DisplayPerson(person.Name, presonLists, IsMinor);
         DisplayPerson(person.Name, presonLists, IsAdult);
       }
+      ///Anonymous Method 
+      ///Delegate2 version - 2
+      DisplayItem("Age upper 18", presonLists, filter);
     }
 
     static void DisplayPerson(string title, List<Person> people, FilterDelegate filter)
@@ -34,7 +46,18 @@ namespace MyApp // Note: actual namespace depends on the project name.
         }
       }
     }
-
+    ///Anonymous Method 
+    ///Delegate2 version - 2
+    public static void DisplayItem(string title, List<Person> people, FilterAgeDelegate filter)
+    {
+      foreach (var person in people)
+      {
+        if (filter(person))
+        {
+          Console.WriteLine(@"{0} is {1}", title, person.Name);
+        }
+      }
+    }
     static string IsMinor(Person p)
     {
       string check = p.Age < 18 ? "Minor" : "";
