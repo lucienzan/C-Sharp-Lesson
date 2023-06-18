@@ -1,0 +1,15 @@
+/Users/mac/Desktop/untitled folder 3/Csharp-lesson/Linq/linq2/obj/Debug/net6.0/linq2.csproj.AssemblyReference.cache
+/Users/mac/Desktop/untitled folder 3/Csharp-lesson/Linq/linq2/obj/Debug/net6.0/linq2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Desktop/untitled folder 3/Csharp-lesson/Linq/linq2/obj/Debug/net6.0/linq2.AssemblyInfoInputs.cache
+/Users/mac/Desktop/untitled folder 3/Csharp-lesson/Linq/linq2/obj/Debug/net6.0/linq2.AssemblyInfo.cs
+/Users/mac/Desktop/untitled folder 3/Csharp-lesson/Linq/linq2/obj/Debug/net6.0/linq2.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/untitled folder 3/Csharp-lesson/Linq/linq2/bin/Debug/net6.0/linq2
+/Users/mac/Desktop/untitled folder 3/Csharp-lesson/Linq/linq2/bin/Debug/net6.0/linq2.deps.json
+/Users/mac/Desktop/untitled folder 3/Csharp-lesson/Linq/linq2/bin/Debug/net6.0/linq2.runtimeconfig.json
+/Users/mac/Desktop/untitled folder 3/Csharp-lesson/Linq/linq2/bin/Debug/net6.0/linq2.dll
+/Users/mac/Desktop/untitled folder 3/Csharp-lesson/Linq/linq2/bin/Debug/net6.0/linq2.pdb
+/Users/mac/Desktop/untitled folder 3/Csharp-lesson/Linq/linq2/obj/Debug/net6.0/linq2.dll
+/Users/mac/Desktop/untitled folder 3/Csharp-lesson/Linq/linq2/obj/Debug/net6.0/refint/linq2.dll
+/Users/mac/Desktop/untitled folder 3/Csharp-lesson/Linq/linq2/obj/Debug/net6.0/linq2.pdb
+/Users/mac/Desktop/untitled folder 3/Csharp-lesson/Linq/linq2/obj/Debug/net6.0/linq2.genruntimeconfig.cache
+/Users/mac/Desktop/untitled folder 3/Csharp-lesson/Linq/linq2/obj/Debug/net6.0/ref/linq2.dll

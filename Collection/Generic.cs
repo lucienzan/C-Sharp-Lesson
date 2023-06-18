@@ -3,7 +3,7 @@
 namespace Collection 
 {
 
-    internal class Generic
+    public class Generic
     {
         static void Main(string[] args)
         {
