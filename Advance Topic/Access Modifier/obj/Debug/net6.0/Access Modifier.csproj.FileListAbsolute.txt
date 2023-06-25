@@ -1,0 +1,15 @@
+/Users/mac/Desktop/untitled folder 3/Csharp-lesson/Advance Topic/Access Modifier/obj/Debug/net6.0/Access Modifier.csproj.AssemblyReference.cache
+/Users/mac/Desktop/untitled folder 3/Csharp-lesson/Advance Topic/Access Modifier/obj/Debug/net6.0/Access Modifier.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Desktop/untitled folder 3/Csharp-lesson/Advance Topic/Access Modifier/obj/Debug/net6.0/Access Modifier.AssemblyInfoInputs.cache
+/Users/mac/Desktop/untitled folder 3/Csharp-lesson/Advance Topic/Access Modifier/obj/Debug/net6.0/Access Modifier.AssemblyInfo.cs
+/Users/mac/Desktop/untitled folder 3/Csharp-lesson/Advance Topic/Access Modifier/obj/Debug/net6.0/Access Modifier.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/untitled folder 3/Csharp-lesson/Advance Topic/Access Modifier/bin/Debug/net6.0/Access Modifier
+/Users/mac/Desktop/untitled folder 3/Csharp-lesson/Advance Topic/Access Modifier/bin/Debug/net6.0/Access Modifier.deps.json
+/Users/mac/Desktop/untitled folder 3/Csharp-lesson/Advance Topic/Access Modifier/bin/Debug/net6.0/Access Modifier.runtimeconfig.json
+/Users/mac/Desktop/untitled folder 3/Csharp-lesson/Advance Topic/Access Modifier/bin/Debug/net6.0/Access Modifier.dll
+/Users/mac/Desktop/untitled folder 3/Csharp-lesson/Advance Topic/Access Modifier/bin/Debug/net6.0/Access Modifier.pdb
+/Users/mac/Desktop/untitled folder 3/Csharp-lesson/Advance Topic/Access Modifier/obj/Debug/net6.0/Access Modifier.dll
+/Users/mac/Desktop/untitled folder 3/Csharp-lesson/Advance Topic/Access Modifier/obj/Debug/net6.0/refint/Access Modifier.dll
+/Users/mac/Desktop/untitled folder 3/Csharp-lesson/Advance Topic/Access Modifier/obj/Debug/net6.0/Access Modifier.pdb
+/Users/mac/Desktop/untitled folder 3/Csharp-lesson/Advance Topic/Access Modifier/obj/Debug/net6.0/Access Modifier.genruntimeconfig.cache
+/Users/mac/Desktop/untitled folder 3/Csharp-lesson/Advance Topic/Access Modifier/obj/Debug/net6.0/ref/Access Modifier.dll
